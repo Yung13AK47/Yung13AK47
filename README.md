@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... making a few bucks 🐒
 - 🌱 I’m currently learning ... html and css
 - 💞️ I’m looking to collaborate on ... any project that i can help with 
-- 📫 How to reach me .. Tooplopp33@gmail.com@gmail.com 
+- 📫 How to reach me .. Tooplopp33@gmail.com
 - ⚡ Fun fact: ... i can create websites for anyone who desires one 👍
 
 <!---
